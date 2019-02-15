@@ -8,7 +8,7 @@ import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/sushilversion',
     label: 'Github',
     icon: faGithub,
   },
@@ -17,28 +17,20 @@ const data = [
     label: 'Facebook',
     icon: faFacebook,
   },
+
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
-  {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/sushil-pandey-03008656/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-  {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
-    icon: faAngellist,
-  },
+  
   {
     link: 'https://twitter.com/dangelosaurus',
     label: 'Twitter',
     icon: faTwitter,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:pandey.sushil@hotmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
